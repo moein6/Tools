@@ -2,22 +2,6 @@
 #include <fstream>
 #include <iostream>
 
-/*
-	Penefits :
-	1 - saving operator "<<" used for Txt files.
-	2 - Reading operator ">>" used for Txt & Bin files.
-	3 - Saving Operator "<<=" used for Bin files.
-	4 - Searching operator ">>=" used for Binary files.
-	5 - also there is a help function.
-
-
-	TO DO :
-	1 - write saving Operator for binary files.
-	2 - write a search function for binary files.
-
-*/
-
-
 // Creating files in "fstream" mood.
 // If you need help just open Help() function.
 class File : public std::fstream
