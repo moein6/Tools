@@ -4,6 +4,8 @@ This Header files makes My coding a little easier and i can have a faster coding
 They have some features which will be described one-by-one
 
 1 - Array : 
+
+
   1 - you can simply call Print() function.
   2 - operator >>:  you can Input all of the elements to your array.
   3 - Unique_initialaze():  it will randomly initialize your array with no repited elements.
@@ -13,6 +15,8 @@ They have some features which will be described one-by-one
   
   
 2 - Screan :
+
+
   1 - Operator << : Show your text.
   2 - operator == : shows you massages.
   3 - operator || : shows your Error texts.
@@ -21,6 +25,9 @@ They have some features which will be described one-by-one
   
   
 3 - File :
+
+
+
   1 - Constructor : it will open file in contidion that you choose and there is no need to be check if file exist.
   2 - operator <<: it saved data in file in non-binary mode.
   3 - operator >>: it reads data and put it in opbject.
