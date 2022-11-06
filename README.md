@@ -1,7 +1,5 @@
 # Tools
-This Header files makes My coding a little easier and i can have a faster coding.
-
-They have some features which will be described one-by-one
+Here is some features which are useful for coding and it will save your time.
 
 1 - Array : 
 
