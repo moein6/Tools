@@ -24,10 +24,6 @@ class  Array : public std::array<Ty, size>
 	}
 
 public:
-	Array(Ty Elem = NULL) {
-		if (Elem != NULL)
-			this->fill(Elem);
-	}
 
 	void Print()const {
 		for (auto I : *this)
